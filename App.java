@@ -5,6 +5,7 @@ this is java application
   system.out.println("hello world!");
 }
 }
+show output hello world
 
 
 
